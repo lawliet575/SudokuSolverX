@@ -14,7 +14,7 @@
 
 1. Clone the repository: `git clone https://github.com/your-username/SudokuSolverX.git`
 2. Navigate to the project directory: `cd SudokuSolverX`
-3. Compile and run the game: `javac SudokuSolverX.java && java SudokuSolverX`
+3. Compile and run the game: `Sudoku_game.java`
 
 ## Contributions
 
